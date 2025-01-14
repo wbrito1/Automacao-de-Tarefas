@@ -28,7 +28,7 @@ time.sleep(3)
 
 pyautogui.click(x=946, y=613)
 
-pyautogui.write("www.wendellmarcio12@gmail.com")
+pyautogui.write("projetospython24@gmail.com")
 
 pyautogui.press("tab")
 
